@@ -1,4 +1,4 @@
-# README: AI in Hiring Systems - Challenges and Solutions
+# AI in Hiring Systems - Challenges and Solutions
 
 ## Overview
 This document provides a detailed analysis of the role of AI-driven tools in hiring processes, examining their potential to enhance efficiency and objectivity while addressing concerns related to fairness and bias. It delves into specific challenges AI systems face, including perpetuating historical, representation, and algorithmic biases, and offers both real-world examples and technical solutions to mitigate these risks. 
